@@ -1,7 +1,7 @@
 # point-of-sale-demo-app
 Point of sale system Version 1.0.0 bundle app
 
-This is a demo app version, only printing is not working.
+This is a demo app version
 
 **INSTRUCTION**
 1. Click this link to download the windows installer https://drive.google.com/file/d/1iXC-fw6L3WdhpRBVhT90hMWMUKO5oEjT/view?usp=sharing
